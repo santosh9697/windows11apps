@@ -59,8 +59,7 @@ on:
         type: choice
         options:pico
         - magisk
-        - none
-
+        -pico
 jobs:
   matrix:
     runs-on: ubuntu-latest
