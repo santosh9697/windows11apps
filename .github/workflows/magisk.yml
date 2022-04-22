@@ -57,7 +57,7 @@ on:
         required: true
         default: "magisk"
         type: choice
-        options:
+        options:pico
         - magisk
         - none
 
